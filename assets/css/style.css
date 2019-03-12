@@ -1,0 +1,22 @@
+h1 {
+  font-size: 3em;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+
+body {
+    text-align: center;
+    padding: 460px 0;
+    border: 3px;
+    background: url(https://www.monsterchildren.com/wp-content/uploads/2018/04/monster-children-psychic.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+  }
+
